@@ -1,2 +1,2 @@
 # Exploratory-DA
-Few independent exploratory data analysis studies 
+Few independent simple exploratory data analysis studies
